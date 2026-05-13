@@ -1,4 +1,4 @@
-﻿[build]
+[build]
   base = "siamlux-travels-nextjs"
   command = "npm run build"
   publish = ".next"
